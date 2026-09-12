@@ -1,12 +1,13 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/SniperWolfi/zenit-studio/releases/download/v1.0.1/ZenitStudio-1.0.1.exe",
-  "sha256": "A621E50F5820EDFDE42FF957647CB740DBABDE87D92A1C9060A0D232E9E02074",
+  "version": "1.0.2",
+  "download_url": "https://github.com/SniperWolfi/zenit-studio/releases/download/v1.0.2/ZenitStudio-1.0.2.exe",
+  "sha256": "2781D93B2D4B46973FDE29991F3A053FBB429E1258BB267B236D4D54F7D174E4",
   "mandatory": false,
   "release_notes": [
     "Açılış ekranı yenilendi.",
     "Popup pencereleri uygulama içi modal sisteme taşındı.",
     "Footer tasarımı yenilendi.",
-    "Güncelleme sistemi geliştirildi."
+    "Güncelleme sistemi geliştirildi.",
+    "Sürüm 1.0.2 yayınlandı."
   ]
 }
