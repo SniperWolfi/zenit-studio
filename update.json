@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/SniperWolfi/zenit-studio/releases/download/v1.0.2/ZenitStudio-1.0.2.exe",
-  "sha256": "2781D93B2D4B46973FDE29991F3A053FBB429E1258BB267B236D4D54F7D174E4",
+  "version": "1.0.3",
+  "download_url": "https://github.com/SniperWolfi/zenit-studio/releases/download/v1.0.3/ZenitStudio-1.0.3.exe",
+  "sha256": "FEBD6FB1A73081265267AA8986326D66FF4FEB3D035AB57C54239A20D66C7F5D"
   "mandatory": false,
   "release_notes": [
     "Açılış ekranı yenilendi.",
